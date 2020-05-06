@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Markdown | Balise | An Blog</title>
+        <link>https://ran101.github.io/fr/tags/markdown/</link>
+        <description>Markdown | Balise | An Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>fr</language><managingEditor>1831764623@qq.com (0-0)</managingEditor>
+            <webMaster>1831764623@qq.com (0-0)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 05 Mar 2020 16:30:05 &#43;0800</lastBuildDate><atom:link href="https://ran101.github.io/fr/tags/markdown/" rel="self" type="application/rss+xml" /><item>
+                <title>Thème Documentation - Contenu</title>
+                <link>https://ran101.github.io/fr/theme-documentation-content/</link>
+                <pubDate>Thu, 05 Mar 2020 16:30:05 &#43;0800</pubDate>
+                <author>Dillon</author>
+                <guid>https://ran101.github.io/fr/theme-documentation-content/</guid>
+                <description>Découvrez comment créer et organiser votre contenu rapidement et intuitivement dans le thème LoveIt.</description>
+            </item></channel>
+</rss>

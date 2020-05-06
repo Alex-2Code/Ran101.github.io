@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>ao | 标签 | An Blog</title>
+        <link>https://ran101.github.io/tags/ao/</link>
+        <description>ao | 标签 | An Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>1831764623@qq.com (0-0)</managingEditor>
+            <webMaster>1831764623@qq.com (0-0)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 06 Mar 2020 21:40:32 &#43;0800</lastBuildDate><atom:link href="https://ran101.github.io/tags/ao/" rel="self" type="application/rss+xml" /><item>
+                <title>测试</title>
+                <link>https://ran101.github.io/first/</link>
+                <pubDate>Fri, 06 Mar 2020 21:40:32 &#43;0800</pubDate>
+                <author>我</author>
+                <guid>https://ran101.github.io/first/</guid>
+                <description>探索 Hugo - LoveIt 主题的全部内容和背后的核心概念.</description>
+            </item></channel>
+</rss>
