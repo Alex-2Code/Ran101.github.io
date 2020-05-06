@@ -2,7 +2,7 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://ran101.github.io/en/theme-documentation-basics/</loc><lastmod>2020-03-06T21:29:01&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://ran101.github.io/en/theme-documentation-basics/</loc><lastmod>2020-05-05T21:29:01&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
                         href="https://ran101.github.io/theme-documentation-basics/"
@@ -15,7 +15,7 @@
                     hreflang="en"
                     href="https://ran101.github.io/en/theme-documentation-basics/"
                     /></url><url>
-            <loc>https://ran101.github.io/en/theme-documentation-content/</loc><lastmod>2020-03-05T15:58:26&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://ran101.github.io/en/theme-documentation-content/</loc><lastmod>2020-05-06T15:58:26&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
                         href="https://ran101.github.io/theme-documentation-content/"
@@ -28,20 +28,7 @@
                     hreflang="en"
                     href="https://ran101.github.io/en/theme-documentation-content/"
                     /></url><url>
-            <loc>https://ran101.github.io/en/first/</loc><lastmod>2020-03-06T21:40:32&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="zh-cn"
-                        href="https://ran101.github.io/first/"
-                        /><xhtml:link
-                        rel="alternate"
-                        hreflang="fr"
-                        href="https://ran101.github.io/fr/first/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="https://ran101.github.io/en/first/"
-                    /></url><url>
-            <loc>https://ran101.github.io/en/</loc><lastmod>2020-03-06T21:40:32&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://ran101.github.io/en/</loc><lastmod>2020-05-06T15:58:26&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
                         href="https://ran101.github.io/"
@@ -54,20 +41,7 @@
                     hreflang="en"
                     href="https://ran101.github.io/en/"
                     /></url><url>
-            <loc>https://ran101.github.io/en/tags/ao/</loc><lastmod>2020-03-06T21:40:32&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="zh-cn"
-                        href="https://ran101.github.io/tags/ao/"
-                        /><xhtml:link
-                        rel="alternate"
-                        hreflang="fr"
-                        href="https://ran101.github.io/fr/tags/ao/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="https://ran101.github.io/en/tags/ao/"
-                    /></url><url>
-            <loc>https://ran101.github.io/en/categories/</loc><lastmod>2020-03-06T21:40:32&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://ran101.github.io/en/categories/</loc><lastmod>2020-05-06T15:58:26&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
                         href="https://ran101.github.io/categories/"
@@ -80,98 +54,7 @@
                     hreflang="en"
                     href="https://ran101.github.io/en/categories/"
                     /></url><url>
-            <loc>https://ran101.github.io/en/tags/first/</loc><lastmod>2020-03-06T21:40:32&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="zh-cn"
-                        href="https://ran101.github.io/tags/first/"
-                        /><xhtml:link
-                        rel="alternate"
-                        hreflang="fr"
-                        href="https://ran101.github.io/fr/tags/first/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="https://ran101.github.io/en/tags/first/"
-                    /></url><url>
-            <loc>https://ran101.github.io/en/posts/</loc><lastmod>2020-03-06T21:40:32&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="zh-cn"
-                        href="https://ran101.github.io/posts/"
-                        /><xhtml:link
-                        rel="alternate"
-                        hreflang="fr"
-                        href="https://ran101.github.io/fr/posts/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="https://ran101.github.io/en/posts/"
-                    /></url><url>
-            <loc>https://ran101.github.io/en/tags/</loc><lastmod>2020-03-06T21:40:32&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="zh-cn"
-                        href="https://ran101.github.io/tags/"
-                        /><xhtml:link
-                        rel="alternate"
-                        hreflang="fr"
-                        href="https://ran101.github.io/fr/tags/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="https://ran101.github.io/en/tags/"
-                    /></url><url>
-            <loc>https://ran101.github.io/en/categories/test/</loc><lastmod>2020-03-06T21:40:32&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="zh-cn"
-                        href="https://ran101.github.io/categories/test/"
-                        /><xhtml:link
-                        rel="alternate"
-                        hreflang="fr"
-                        href="https://ran101.github.io/fr/categories/test/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="https://ran101.github.io/en/categories/test/"
-                    /></url><url>
-            <loc>https://ran101.github.io/en/tags/configuration/</loc><lastmod>2020-03-06T21:29:01&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="zh-cn"
-                        href="https://ran101.github.io/tags/configuration/"
-                        /><xhtml:link
-                        rel="alternate"
-                        hreflang="fr"
-                        href="https://ran101.github.io/fr/tags/configuration/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="https://ran101.github.io/en/tags/configuration/"
-                    /></url><url>
-            <loc>https://ran101.github.io/en/categories/documentation/</loc><lastmod>2020-03-06T21:29:01&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="zh-cn"
-                        href="https://ran101.github.io/categories/documentation/"
-                        /><xhtml:link
-                        rel="alternate"
-                        hreflang="fr"
-                        href="https://ran101.github.io/fr/categories/documentation/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="https://ran101.github.io/en/categories/documentation/"
-                    /></url><url>
-            <loc>https://ran101.github.io/en/tags/installation/</loc><lastmod>2020-03-06T21:29:01&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="zh-cn"
-                        href="https://ran101.github.io/tags/installation/"
-                        /><xhtml:link
-                        rel="alternate"
-                        hreflang="fr"
-                        href="https://ran101.github.io/fr/tags/installation/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="https://ran101.github.io/en/tags/installation/"
-                    /></url><url>
-            <loc>https://ran101.github.io/en/tags/content/</loc><lastmod>2020-03-05T15:58:26&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://ran101.github.io/en/tags/content/</loc><lastmod>2020-05-06T15:58:26&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
                         href="https://ran101.github.io/tags/content/"
@@ -184,7 +67,20 @@
                     hreflang="en"
                     href="https://ran101.github.io/en/tags/content/"
                     /></url><url>
-            <loc>https://ran101.github.io/en/tags/markdown/</loc><lastmod>2020-03-05T15:58:26&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://ran101.github.io/en/categories/documentation/</loc><lastmod>2020-05-06T15:58:26&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="https://ran101.github.io/categories/documentation/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="fr"
+                        href="https://ran101.github.io/fr/categories/documentation/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="https://ran101.github.io/en/categories/documentation/"
+                    /></url><url>
+            <loc>https://ran101.github.io/en/tags/markdown/</loc><lastmod>2020-05-06T15:58:26&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
                         href="https://ran101.github.io/tags/markdown/"
@@ -196,4 +92,56 @@
                     rel="alternate"
                     hreflang="en"
                     href="https://ran101.github.io/en/tags/markdown/"
+                    /></url><url>
+            <loc>https://ran101.github.io/en/posts/</loc><lastmod>2020-05-06T15:58:26&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="https://ran101.github.io/posts/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="fr"
+                        href="https://ran101.github.io/fr/posts/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="https://ran101.github.io/en/posts/"
+                    /></url><url>
+            <loc>https://ran101.github.io/en/tags/</loc><lastmod>2020-05-06T15:58:26&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="https://ran101.github.io/tags/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="fr"
+                        href="https://ran101.github.io/fr/tags/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="https://ran101.github.io/en/tags/"
+                    /></url><url>
+            <loc>https://ran101.github.io/en/tags/configuration/</loc><lastmod>2020-05-05T21:29:01&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="https://ran101.github.io/tags/configuration/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="fr"
+                        href="https://ran101.github.io/fr/tags/configuration/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="https://ran101.github.io/en/tags/configuration/"
+                    /></url><url>
+            <loc>https://ran101.github.io/en/tags/installation/</loc><lastmod>2020-05-05T21:29:01&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="https://ran101.github.io/tags/installation/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="fr"
+                        href="https://ran101.github.io/fr/tags/installation/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="https://ran101.github.io/en/tags/installation/"
                     /></url></urlset>

@@ -4,12 +4,12 @@
         <link>https://ran101.github.io/en/tags/installation/</link>
         <description>installation | Tag | An Blog</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>1831764623@qq.com (0-0)</managingEditor>
-            <webMaster>1831764623@qq.com (0-0)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 06 Mar 2020 21:29:01 &#43;0800</lastBuildDate><atom:link href="https://ran101.github.io/en/tags/installation/" rel="self" type="application/rss+xml" /><item>
-                <title>Theme Documentation - Basics</title>
+            <webMaster>1831764623@qq.com (0-0)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 05 May 2020 21:29:01 &#43;0800</lastBuildDate><atom:link href="https://ran101.github.io/en/tags/installation/" rel="self" type="application/rss+xml" /><item>
+                <title>Test1</title>
                 <link>https://ran101.github.io/en/theme-documentation-basics/</link>
-                <pubDate>Fri, 06 Mar 2020 21:29:01 &#43;0800</pubDate>
-                <author>Dillon</author>
+                <pubDate>Tue, 05 May 2020 21:29:01 &#43;0800</pubDate>
+                <author>0-0</author>
                 <guid>https://ran101.github.io/en/theme-documentation-basics/</guid>
-                <description>Discover what the Hugo - LoveIt theme is all about and the core-concepts behind it.</description>
+                <description>Test1</description>
             </item></channel>
 </rss>

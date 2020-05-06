@@ -4,19 +4,19 @@
         <link>https://ran101.github.io/categories/documentation/</link>
         <description>文档 | 分类 | An Blog</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>1831764623@qq.com (0-0)</managingEditor>
-            <webMaster>1831764623@qq.com (0-0)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 06 Mar 2020 21:40:32 &#43;0800</lastBuildDate><atom:link href="https://ran101.github.io/categories/documentation/" rel="self" type="application/rss+xml" /><item>
-                <title>主题文档 - 基本概念</title>
+            <webMaster>1831764623@qq.com (0-0)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Wed, 06 May 2020 16:30:05 &#43;0800</lastBuildDate><atom:link href="https://ran101.github.io/categories/documentation/" rel="self" type="application/rss+xml" /><item>
+                <title>测试1</title>
                 <link>https://ran101.github.io/theme-documentation-basics/</link>
-                <pubDate>Fri, 06 Mar 2020 21:40:32 &#43;0800</pubDate>
-                <author>Dillon</author>
+                <pubDate>Tue, 05 May 2020 21:40:32 &#43;0800</pubDate>
+                <author>0-0</author>
                 <guid>https://ran101.github.io/theme-documentation-basics/</guid>
-                <description>探索 Hugo - LoveIt 主题的全部内容和背后的核心概念.</description>
+                <description>测试1</description>
             </item><item>
-                <title>主题文档 - 内容</title>
+                <title>测试2</title>
                 <link>https://ran101.github.io/theme-documentation-content/</link>
-                <pubDate>Thu, 05 Mar 2020 16:30:05 &#43;0800</pubDate>
-                <author>Dillon</author>
+                <pubDate>Wed, 06 May 2020 16:30:05 &#43;0800</pubDate>
+                <author>0-0</author>
                 <guid>https://ran101.github.io/theme-documentation-content/</guid>
-                <description>了解如何在 LoveIt 主题中快速, 直观地创建和组织内容.</description>
+                <description>测试2</description>
             </item></channel>
 </rss>

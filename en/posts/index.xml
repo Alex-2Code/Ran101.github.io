@@ -4,26 +4,19 @@
         <link>https://ran101.github.io/en/posts/</link>
         <description>All Posts | An Blog</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>1831764623@qq.com (0-0)</managingEditor>
-            <webMaster>1831764623@qq.com (0-0)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 06 Mar 2020 21:40:32 &#43;0800</lastBuildDate><atom:link href="https://ran101.github.io/en/posts/" rel="self" type="application/rss+xml" /><item>
-                <title>Theme Documentation - Basics</title>
+            <webMaster>1831764623@qq.com (0-0)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Wed, 06 May 2020 15:58:26 &#43;0800</lastBuildDate><atom:link href="https://ran101.github.io/en/posts/" rel="self" type="application/rss+xml" /><item>
+                <title>Test1</title>
                 <link>https://ran101.github.io/en/theme-documentation-basics/</link>
-                <pubDate>Fri, 06 Mar 2020 21:29:01 &#43;0800</pubDate>
-                <author>Dillon</author>
+                <pubDate>Tue, 05 May 2020 21:29:01 &#43;0800</pubDate>
+                <author>0-0</author>
                 <guid>https://ran101.github.io/en/theme-documentation-basics/</guid>
-                <description>Discover what the Hugo - LoveIt theme is all about and the core-concepts behind it.</description>
+                <description>Test1</description>
             </item><item>
-                <title>Theme Documentation - Content</title>
+                <title>Test2</title>
                 <link>https://ran101.github.io/en/theme-documentation-content/</link>
-                <pubDate>Thu, 05 Mar 2020 15:58:26 &#43;0800</pubDate>
-                <author>Dillon</author>
+                <pubDate>Wed, 06 May 2020 15:58:26 &#43;0800</pubDate>
+                <author>0-0</author>
                 <guid>https://ran101.github.io/en/theme-documentation-content/</guid>
-                <description>Find out how to create and organize your content quickly and intuitively in LoveIt theme.</description>
-            </item><item>
-                <title>测试</title>
-                <link>https://ran101.github.io/en/first/</link>
-                <pubDate>Fri, 06 Mar 2020 21:40:32 &#43;0800</pubDate>
-                <author>我</author>
-                <guid>https://ran101.github.io/en/first/</guid>
-                <description>探索 Hugo - LoveIt 主题的全部内容和背后的核心概念.</description>
+                <description>Test2</description>
             </item></channel>
 </rss>
